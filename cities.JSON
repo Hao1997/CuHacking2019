@@ -1,0 +1,158 @@
+{ "cities":{
+    "Ottawa": {
+      "urban": 6,
+      "family": "All",
+      "when": "Winter",
+      "safety": 8,
+      "climate": "Cold",
+      "adventure": 4,
+      "cost": 0,
+      "food": 2,
+      "attraction": 3,
+      "arts/culture": 3,
+      "url": "https://www.tripadvisor.ca/Attractions-g155004-Activities-Ottawa_Ontario.html"
+    },
+    "NYC":{
+      "urban":10,
+      "family":"Couples",
+      "when":"Spring",
+      "safety": 6,
+      "climate": "Regular",
+      "adventure":8,
+      "cost":1,
+      "food": 8,
+      "attraction": 7,
+      "arts/culture": 10,
+      "url":
+
+    },
+    "Havana":{
+      "urban":6,
+      "family":"Couples",
+      "when":"All",
+      "safety": 6,
+      "climate":"Tropic",
+      "adventure":6,
+      "cost": 1,
+      "food":6,
+      "attraction":7,
+      "arts/culture":6,
+      "url":
+
+    },
+    "Rejkjavik":{
+      "urban":1,
+      "family": "Couples",
+      "when": "Winter",
+      "safety":9,
+      "climate": "Cold",
+      "adventure":20,
+      "cost":2,
+      "food": 5,
+      "attraction":6,
+      "arts/culture":5,
+      "url":
+
+    },
+    "Puerto Plata":{
+      "urban":2,
+      "family":"Couples",
+      "when": "All",
+      "safety": 6,
+      "climate": "Tropic",
+      "adventure":5,
+      "cost":1,
+      "food":5,
+      "attraction":4,
+      "arts/culture":5,
+      "url":
+
+    },
+    "Orlando":{
+      "urban":6,
+      "family":"Family",
+      "when":"Spring",
+      "safety":6,
+      "climate":"Tropic",
+      "adventure":5,
+      "cost":1,
+      "food":5,
+      "attraction":8,
+      "arts/culture":7,
+      "url":
+
+    },
+    "Los Angleles":{
+      "urban":8,
+      "family":"Single",
+      "when":"All",
+      "safety":5,
+      "climate":"Tropic",
+      "adventure":7,
+      "cost":2,
+      "food":7,
+      "attraction":10,
+      "arts/culture":10,
+      "url":
+
+    },
+    "Beijing":{
+      "urban": 10,
+      "family": "All",
+      "when": "Summer",
+      "safety":8,
+      "climate":"Regular",
+      "adventure":8,
+      "cost":2,
+      "food":9,
+      "attraction":10,
+      "arts/culture":7,
+      "url":
+
+    },
+    "Marsilles":{
+      "urban":5,
+      "family":"All",
+      "when":"Summer",
+      "safety":7,
+      "climate":"Regular",
+      "adventure":7,
+      "cost":1,
+      "food":9,
+      "attraction":8,
+      "arts/culture":7,
+      "url":
+
+    },
+    "Rome":{
+      "urban":4,
+      "family":"All",
+      "when": "Spring",
+      "safety":7,
+      "climate":"Warm",
+      "adventure":10,
+      "cost":"Medium",
+      "food":10,
+      "attraction":10,
+      "arts/culture":10,
+      "url":
+
+    },
+    "Dublin":{
+      "urban":2,
+      "family":"Single",
+      "when":"Summer",
+      "safety":5,
+      "climate":"Cold",
+      "adventure":3,
+      "cost":1,
+      "food":8,
+      "attraction":7,
+      "arts/culture":5,
+      "url":
+
+    },
+
+  }
+
+}
