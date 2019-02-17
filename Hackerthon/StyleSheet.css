@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&subset=cyrillic,latin-ext');
+
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#457fca+0,5691c8+100 */
+background: rgb(69,127,202); /* Old browsers */
+background: -moz-linear-gradient(left, rgba(69,127,202,1) 0%, rgba(86,145,200,1) 100%); /* FF3.6-15 */
+background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(69,127,202,1)), color-stop(100%,rgba(86,145,200,1))); /* Chrome4-9,Safari4-5 */
+background: -webkit-linear-gradient(left, rgba(69,127,202,1) 0%,rgba(86,145,200,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: -o-linear-gradient(left, rgba(69,127,202,1) 0%,rgba(86,145,200,1) 100%); /* Opera 11.10-11.50 */
+background: -ms-linear-gradient(left, rgba(69,127,202,1) 0%,rgba(86,145,200,1) 100%); /* IE10 preview */
+background: linear-gradient(to right, rgba(69,127,202,1) 0%,rgba(86,145,200,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#457fca', endColorstr='#5691c8',GradientType=1 ); /* IE6-9 */background-repeat: fixed;
+}
+
+
+
+
+    
+
+h1{
+    font-size: 90pt;
+    font-family: 'Pacifico', cursive;
+    color: #FFFF;
+    font-display: bold;
+    text-align: center;
+    font-size: 7vw;
+    
+}
+
+
+ul{
+    
+    top: 0;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    overflow: hidden;
+    background-color: #bbdefb; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+
+    border-radius : 0px; 
+}
+
+li {
+    float: left;
+}
+
+li a{
+    display: block;
+    color:black;
+    text-align: center;
+    padding: 25px 16px;
+    text-decoration: none;
+    
+}
+
+li a:hover{
+    background-color: #FFFF; 
+}
+
+
+
+li b{
+    display: block;
+    color: black;
+    align-items: left;
+    font-size: 19px;
+}
+
+img{
+    display: block;
+    width: 100%;
+    height: auto;
+    padding-bottom: 20em;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+
+}
+
+.image1{
+    background-color: #bbdefb;
+}
+
+.page-header{
+
+    
+    color: white;
+   
+   
+}
+
+
+
